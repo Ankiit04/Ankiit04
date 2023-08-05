@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/@spidyrate" target="blank"><img src="https://img.shields.io/twitter/follow/@spidyrate?logo=twitter&style=for-the-badge" alt="@spidyrate" /></a> </p>
 
-- 🔭 I’m currently working on on College projects **Quiz app**
+- 🔭 I’m currently working on personal projects 
 
-- 👨‍💻 All of my projects are available at [still working](still working)
-
-- 💬 Ask me about **Python**
+- 👨‍💻 All of my projects are available at in my repository
+- 💬 Ask me about **Data science** **AI** **Python** **Html** **Flask** **Web development**
 
 - 📫 How to reach me **ankitraj329@gmail.com**
 
