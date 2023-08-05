@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Raj</h1>
-<h3 align="center">Pursuing Data science</h3>
+<h3 align="center">Pursuing Data science IITM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankiit04&label=Profile%20views&color=0e75b6&style=flat" alt="ankiit04" /> </p>
 
